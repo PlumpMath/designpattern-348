@@ -1,4 +1,4 @@
-package com.designpattern.strategy;
+package designpattern.strategy;
 
 /**
  * Created by pradeep on 12/11/16.
